@@ -3,12 +3,12 @@
 - 👋 Hi, I'm @Dakony! I'm a data analyst and mobile developer with experience in Python, R, PowerBI, Tableau, and Excel. I'm passionate about using data to solve real-world problems and creating mobile applications that make people's lives easierinkedIn...
 
 # Projects
+[Project 1](https://github.com/Dakony/PowerBI_Projects): A data visualization project using PowerBI to show Data Professional Survey
 
-[Project 1](https://github.com/Dakony/Tableau_Projects): A data analysis project using SQL and Tableau to visualize and analyze patients viral load data
+[Project 2](https://github.com/Dakony/Tableau_Projects): A data analysis project using SQL and Tableau to visualize and analyze patients viral load data
 
-[Project 2](https://github.com/Dakony/ChatBot): A mobile application developed using React Native that helps diagnose of malaria and some common sickness in Nigeria
+[Project 3](https://github.com/Dakony/ChatBot): A mobile application developed using React Native that helps diagnose of malaria and some common sickness in Nigeria
 
-[Project 3](https://github.com/Dakony/PowerBI_Projects): A data visualization project using PowerBI to show Data Professional Survey
 
 # Collaboration
 💞️ I'm always looking to collaborate on new data analysis and mobile development projects! If you're interested in working together, feel free to reach out to me on GitHub, Twitter, Facebook, or LinkedIn.
