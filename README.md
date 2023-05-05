@@ -1,6 +1,6 @@
 ![20230401_070640](https://user-images.githubusercontent.com/34747511/230319513-1403e3d7-5c66-48e5-94f1-eee63eb39eaa.jpg)
 
-- 👋 Hi, I'm @Dakony! I'm a data analyst and mobile developer with experience in Python, R, PowerBI, Tableau, and Excel. I'm passionate about using data to solve real-world problems and creating mobile applications that make people's lives easierinkedIn...
+- 👋 Hi, I'm @Dakony! I'm a data analyst and mobile developer with experience in Python, R, PowerBI, Tableau, and Excel. I'm passionate about using data to solve real-world problems and creating mobile applications that make people's lives easier...
 
 # Projects
 [Project 1](https://github.com/Dakony/PowerBI_Projects): A data visualization project using PowerBI to show Data Professional Survey
